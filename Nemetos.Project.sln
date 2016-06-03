@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nemetos.Project.Library", "Nemetos.Project.Library\Nemetos.Project.Library.csproj", "{15A95CC8-DB40-4FA5-A7A3-532527B1A040}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nemetos.Project.ConsoleApplication", "Nemetos.Project.ConsoleApplication\Nemetos.Project.ConsoleApplication.csproj", "{C98D1B4B-5650-4723-898F-8C5A1DC8C1BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{15A95CC8-DB40-4FA5-A7A3-532527B1A040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15A95CC8-DB40-4FA5-A7A3-532527B1A040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15A95CC8-DB40-4FA5-A7A3-532527B1A040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98D1B4B-5650-4723-898F-8C5A1DC8C1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98D1B4B-5650-4723-898F-8C5A1DC8C1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98D1B4B-5650-4723-898F-8C5A1DC8C1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98D1B4B-5650-4723-898F-8C5A1DC8C1BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
